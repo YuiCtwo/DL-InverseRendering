@@ -63,5 +63,5 @@ Previous work on Deep Learning based Inverse Rendering
 |2021|[Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/)||
 |2021|[Neural Video Portrait Relighting in Real-time via Consistency Modeling](https://zhanglongwen.com/projects/nvpr/)|[Code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) & [Dataset](https://zhanglongwen.com/projects/nvpr/dataset.html)|
 
-## acknowledgement
+## Acknowledgement
 This repo is inspired by [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) and relate survey: [A Survey on Intrinsic Images: Delving Deep Into Lambert and Beyond](https://arxiv.org/abs/2112.03842)
