@@ -28,8 +28,6 @@ Previous work on Deep Learning based Inverse Rendering
 |2021|[PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://kai-46.github.io/PhySG-website/)|[Code](https://github.com/Kai-46/PhySG)|&#10003;|&#10003;|&#10003;|
 |2020|[Single-Shot Neural Relighting and SVBRDF Estimation](https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/)|[Code](https://github.com/ssangx/NeuralRelighting)||&#10003;|&#10003;|
 |2021|[Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)|[Code](https://github.com/dlichy/ShapeAndMaterial)||&#10003;|&#10003;|
-|||||||
-
 
 ## Indoor Scene
 
@@ -46,9 +44,6 @@ Previous work on Deep Learning based Inverse Rendering
 |2021|[Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting](https://nv-tlabs.github.io/inverse-rendering-3d-lighting/)||&#10003;|&#10003;||
 |2021|[EMLight: Lighting Estimation via Spherical Distribution Approximation](https://arxiv.org/abs/2012.11116)||&#10003;|||
 |2018|[Learning to Predict Indoor Illumination from a Single Image](https://cseweb.ucsd.edu/~viscomp/projects/SIGA18ShapeSVBRDF/)|[Code](https://github.com/lzqsd/SingleImageShapeAndSVBRDF)||&#10003;|&#10003;|
-|||||||
-
-
 
 ## Human
 
