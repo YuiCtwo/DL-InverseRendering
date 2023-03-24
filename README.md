@@ -52,7 +52,7 @@ Previous work on Deep Learning based Inverse Rendering
 ## Human
 
 |Year|Paper|Code|
-|-|-|-|
+|-|-|:-:|
 |2018|[Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images](http://kanamori.cs.tsukuba.ac.jp/projects/relighting_human/)|[Code](http://kanamori.cs.tsukuba.ac.jp/projects/relighting_human/)|
 |2019|[Single Image Portrait Relighting](https://arxiv.org/abs/1905.00824)||
 |2020|[Learning Physics-Guided Face Relighting Under Directional Light](https://openaccess.thecvf.com/content_CVPR_2020/html/Nestmeyer_Learning_Physics-Guided_Face_Relighting_Under_Directional_Light_CVPR_2020_paper.html)||
