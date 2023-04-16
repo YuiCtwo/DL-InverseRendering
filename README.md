@@ -14,11 +14,11 @@ Previous work on Deep Learning based Inverse Rendering
 |2020|[MaterialGAN: Reflectance Capture using a Generative SVBRDF Model](https://shuangz.com/projects/materialgan-sa20/)|[Code](https://github.com/tflsguoyu/materialgan)|
 
 
-## Single Object
+## Static Object
 
 |Year|Paper|Code|L|G|M|
 |-|-|-|-|-|-|
-|2020|[NeRD-Neural-Reflectance-Decomposition](https://arxiv.org/abs/2012.03918)|[Code](https://github.com/cgtuebingen/nerd-neural-reflectance-decomposition)||&#10003;|&#10003;|
+|2020|[NeRD-Neural-Reflectance-Decomposition](https://arxiv.org/abs/2012.03918)|[Code](https://github.com/cgtuebingen/nerd-neural-reflectance-decomposition)|&#10003;|&#10003;|&#10003;|
 |2021|[Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition](https://arxiv.org/abs/2110.14373)|[Code](https://github.com/cgtuebingen/Neural-PIL)|&#10003;|&#10003;|&#10003;|
 |2021|[NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970)|[Code](https://github.com/google/nerfactor)|&#10003;|&#10003;|&#10003;|
 |2022|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)|[Code](https://github.com/ywq/psnerf)||&#10003;|&#10003;|
@@ -31,6 +31,7 @@ Previous work on Deep Learning based Inverse Rendering
 |2021|[Unified Shape and SVBRDF Recovery using Differentiable Monte Carlo Rendering](https://arxiv.org/abs/2103.15208)|||&#10003;|&#10003;|
 |2022|[Modeling Indirect Illumination for Inverse Rendering](https://zju3dv.github.io/invrender/)|[Code](https://github.com/zju3dv/invrender)|&#10003;|&#10003;|&#10003;|
 |2022|[DIP: Differentiable Interreflection-aware Physics-based Inverse Rendering](https://denghilbert.github.io/dip/)|[Code](https://github.com/denghilbert/DIP)|&#10003;|&#10003;|&#10003;|
+|2022|[Neural Microfacet Fields for Inverse Rendering](https://half-potato.gitlab.io/posts/nmf/)||&#10003;|&#10003;|&#10003;|
 
 ## Indoor Scene
 
