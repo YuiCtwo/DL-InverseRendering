@@ -18,7 +18,7 @@ Previous work on Deep Learning based Inverse Rendering
 
 |Year|Paper|Code|L|G|M|
 |-|-|-|-|-|-|
-|2020|[NeRD-Neural-Reflectance-Decomposition](https://arxiv.org/abs/2012.03918)|[Code](https://github.com/cgtuebingen/nerd-neural-reflectance-decomposition)|&#10003;|&#10003;|&#10003;|
+|2020|[NeRD-Neural-Reflectance-Decomposition](https://arxiv.org/abs/2012.03918)|[Code](https://github.com/cgtuebingen/nerd-neural-reflectance-decomposition)||&#10003;|&#10003;|
 |2021|[Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition](https://arxiv.org/abs/2110.14373)|[Code](https://github.com/cgtuebingen/Neural-PIL)|&#10003;|&#10003;|&#10003;|
 |2021|[NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970)|[Code](https://github.com/google/nerfactor)|&#10003;|&#10003;|&#10003;|
 |2022|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)|[Code](https://github.com/ywq/psnerf)||&#10003;|&#10003;|
@@ -36,7 +36,7 @@ Previous work on Deep Learning based Inverse Rendering
 
 |Year|Paper|Code|L|G|M|
 |-|-|-|-|-|-|
-|2022|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)|[Code](https://github.com/Morpheus3000/PIE-Net)|&#10003;|&#10003;|&#10003;|
+|2022|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)||&#10003;|&#10003;|&#10003;|
 |2020|[Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)|[Code](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)|&#10003;|&#10003;|&#10003;|
 |2017|[Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090)|[Dataset](http://indoor.hdrdb.com/)|&#10003;|||
 |2018|[Learning to Estimate Indoor Lighting from 3D Objects](https://arxiv.org/abs/1806.03994)|[Code](https://github.com/weberhen/learning_indoor_lighting)|&#10003;|||
